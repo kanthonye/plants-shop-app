@@ -17,7 +17,7 @@ Welcome to The Grove, your ultimate mobile solution for all things home gardenin
 
 ### Overview
 
-The Grove is a comprehensive mobile app built with a full-stack approach. It features a sleek and intuitive interface for users to browse products, manage their shopping cart, complete transactions, and configure their app settings. The app is designed with a focus on providing a seamless and enjoyable shopping experience for gardeners of all levels.
+The Grove is a comprehensive mobile app built with a full-stack approach. Built with React Native and VSCode. It features a sleek and intuitive interface for users to browse products, manage their shopping cart, complete transactions, and configure their app settings. The app is designed with a focus on providing a seamless and enjoyable shopping experience for gardeners of all levels.
 
 ### Store Front
 
