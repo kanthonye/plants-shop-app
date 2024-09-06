@@ -28,7 +28,7 @@ The Store Front is the main page where users can explore a wide range of gardeni
 
 ### Cart View
 
-The Cart View allows users to review and manage the items they've selected for purchase. Features include:
+The Cart View allows users to review and manage the items they've selected for purchase. Features include.
 
 - **Item Overview**: See a list of all items added to the cart with quantities and individual prices.
 - **Edit Cart**: Update quantities or remove items as needed.
@@ -43,6 +43,13 @@ The Transaction View handles the checkout process and payment. Features include:
 - **Payment Integration**: Securely enter payment information and process transactions.
 - **Order Confirmation**: Receive a confirmation of the order and estimated delivery time.
 - **Transaction History**: Access past orders and track their status.
+
+### Transaction History View
+
+The Transaction History View allows users to view past purchases.
+
+- **Transaction Summary**: Display a list of snipet summary of past transactions.
+- **Transaction View**: Display past transaction summary and items.
 
 ### Settings Page
 
