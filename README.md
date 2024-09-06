@@ -34,7 +34,7 @@ The Store Front is the main page where users can explore a wide range of gardeni
 
 The Cart View allows users to review and manage the items they've selected for purchase. Features include.
 
-<img width="474" alt="Screenshot 2024-09-05 at 11 34 21 PM" src="https://github.com/user-attachments/assets/293eb0fe-f559-4d5b-be99-a895f902327c">
+<img width="300" alt="Screenshot 2024-09-05 at 11 34 21 PM" src="https://github.com/user-attachments/assets/293eb0fe-f559-4d5b-be99-a895f902327c">
 
 - **Item Overview**: See a list of all items added to the cart with quantities and individual prices.
 - **Edit Cart**: Update quantities or remove items as needed.
