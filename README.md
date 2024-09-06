@@ -45,7 +45,7 @@ The Cart View allows users to review and manage the items they've selected for p
 
 The Checkout View handles the checkout process and payment. Features include:
 
-<img width="470" alt="Screenshot 2024-09-05 at 11 34 38 PM" src="https://github.com/user-attachments/assets/e947e916-720d-47d3-8883-4d48a845d3d8">
+<img width="300" alt="Screenshot 2024-09-05 at 11 34 38 PM" src="https://github.com/user-attachments/assets/e947e916-720d-47d3-8883-4d48a845d3d8">
 
 - **Order Summary**: Review the items in the cart, total cost, and delivery address.
 - **Payment Integration**: Securely enter payment information and process transactions.
@@ -56,7 +56,7 @@ The Checkout View handles the checkout process and payment. Features include:
 
 The Transaction History View allows users to view past purchases.
 
-<img width="469" alt="Screenshot 2024-09-05 at 11 35 17 PM" src="https://github.com/user-attachments/assets/3484015d-d8e6-4643-92d9-14ed62891c44">
+<img width="300" alt="Screenshot 2024-09-05 at 11 35 17 PM" src="https://github.com/user-attachments/assets/3484015d-d8e6-4643-92d9-14ed62891c44">
 
 - **Transaction Summary**: Display a list of snipet summary of past transactions.
 - **Transaction View**: Display past transaction summary and items.
