@@ -2,15 +2,17 @@
 
 Welcome to The Grove, your ultimate mobile solution for all things home gardening! This full-stack e-commerce app is designed to provide garden enthusiasts with everything they need to cultivate their green spaces. From seeds to soil, and everything in between, The Grove is your one-stop shop for home gardening supplies.
 
+<img width="300" alt="Screenshot 2024-09-05 at 11 32 20 PM" src="https://github.com/user-attachments/assets/9a662c0a-84c0-42c4-a3f5-7adfd2d8d3ac">
+
 #### Table of Contents
 
 - Overview
 - Store Front
 - Cart View
-- Transaction View
-- Settings Page
+- Checkout View
+- Transaction History View
+- Settings View
 - Setup and Installation
-- Contributing
 - License
 
 ### Overview
@@ -21,6 +23,8 @@ The Grove is a comprehensive mobile app built with a full-stack approach. It fea
 
 The Store Front is the main page where users can explore a wide range of gardening products. Features include:
 
+<img width="300" alt="Screenshot 2024-09-05 at 11 33 47 PM" src="https://github.com/user-attachments/assets/763da674-433c-4fb7-88cc-c9e69a7a8ee5">
+
 - **Product Categories**: Browse through various categories such as seeds, tools, soil, and planters.
 - **Search Functionality**: Quickly find specific items using the search bar.
 - **Product Listings**: View detailed information about each product, including images, descriptions, and prices.
@@ -30,14 +34,18 @@ The Store Front is the main page where users can explore a wide range of gardeni
 
 The Cart View allows users to review and manage the items they've selected for purchase. Features include.
 
+<img width="474" alt="Screenshot 2024-09-05 at 11 34 21 PM" src="https://github.com/user-attachments/assets/293eb0fe-f559-4d5b-be99-a895f902327c">
+
 - **Item Overview**: See a list of all items added to the cart with quantities and individual prices.
 - **Edit Cart**: Update quantities or remove items as needed.
 - **Price Summary**: View the total cost, including taxes and shipping fees.
 - **Proceed to Checkout**: Navigate to the transaction view to complete the purchase.
 
-### Transaction View
+### Checkout View
 
-The Transaction View handles the checkout process and payment. Features include:
+The Checkout View handles the checkout process and payment. Features include:
+
+<img width="470" alt="Screenshot 2024-09-05 at 11 34 38 PM" src="https://github.com/user-attachments/assets/e947e916-720d-47d3-8883-4d48a845d3d8">
 
 - **Order Summary**: Review the items in the cart, total cost, and delivery address.
 - **Payment Integration**: Securely enter payment information and process transactions.
@@ -47,6 +55,8 @@ The Transaction View handles the checkout process and payment. Features include:
 ### Transaction History View
 
 The Transaction History View allows users to view past purchases.
+
+<img width="469" alt="Screenshot 2024-09-05 at 11 35 17 PM" src="https://github.com/user-attachments/assets/3484015d-d8e6-4643-92d9-14ed62891c44">
 
 - **Transaction Summary**: Display a list of snipet summary of past transactions.
 - **Transaction View**: Display past transaction summary and items.
